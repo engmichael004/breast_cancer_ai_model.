@@ -1,0 +1,9 @@
+This project is about building a machine learning model to predict breast cancer diagnosis. The notebook covers the entire process, from preparing the raw data and handling data imbalance to training a model (Logistic Regression) and evaluating its performance, with a specific focus on recall to ensure the model doesn't miss any malignant cases.
+
+
+
+
+
+
+
+
